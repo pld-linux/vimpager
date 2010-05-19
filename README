@@ -9,7 +9,6 @@ Should work in most other places, if it detects your "ps" correctly.
 
 INSTALL DETAILS
 
-Put these in your ~/.bashrc or ~/.zshrc 
+Put these in your shell config, for example ~/.bashrc or ~/.zshrc 
  export PAGER=vimpager 
- alias less=$PAGER
 
