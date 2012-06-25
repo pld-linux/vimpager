@@ -1,12 +1,12 @@
 Summary:	Use ViM as PAGER
 Summary(hu.UTF-8):	ViM PAGER-ként
 Name:		vimpager
-Version:	1.4.8
+Version:	1.7.0
 Release:	0.2
 License:	GPL
 Group:		Applications/Text
-Source0:	http://www.vim.org/scripts/download_script.php?src_id=15483
-# Source0-md5:	28d3f0985e846ed9a0d69969e1b05717
+Source0:	http://www.vim.org/scripts/download_script.php?src_id=18187
+# Source0-md5:	da47c4eadd1ce3fff7e5d5e919c9f4cb
 URL:		http://www.vim.org/scripts/script.php?script_id=1723
 Requires:	procps
 Requires:	vim
